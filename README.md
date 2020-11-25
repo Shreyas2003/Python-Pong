@@ -1,2 +1,4 @@
 # Python-Pong
-The game Pong written in Python
+Requires PyGame to run
+
+Python 3.8
